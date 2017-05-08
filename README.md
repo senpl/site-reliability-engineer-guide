@@ -8,7 +8,7 @@ Collection of books, research papers, videos and articles for mastering Site Rea
 - [ ] UNIX and Linux System Administration Handbook Nemeth, Evi
 - [ ] TCP/IP Illustrated, Volume 3: TCP for Transactions, HTTP, NNTP, and the Unix (R) Domain Protocols Stevens, W. Richard
 - [ ] Systems Performance: Enterprise and the Cloud
-- [x] Site Reliability Engineering: How Google Runs Production Systems - Free to read online(https://landing.google.com/sre/book/index.html)
+- [ ] Site Reliability Engineering: How Google Runs Production Systems - Free to read online(https://landing.google.com/sre/book/index.html)
 - [ ] The datacenter as a computer: an introduction to the design of warehouse-scale machines
 - [ ] The Practice of System and Network Administration
 - [ ] The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems
@@ -58,7 +58,7 @@ Collection of books, research papers, videos and articles for mastering Site Rea
 ## SRE best practice
 
 - [ ] [Software engineering at Google](https://github.com/vorozhko/site-reliability-engineer-guide/blob/master/software-engeneering-at-google.pdf)
-- [ ] [Keys to SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
+- [x] [Keys to SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
 - [ ] [How Container Clusters Like Kubernetes Change Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/burns)
 - [ ] [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
 - [ ] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
