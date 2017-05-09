@@ -59,7 +59,7 @@ Collection of books, research papers, videos and articles for mastering Site Rea
 
 - [x] [Software engineering at Google](https://github.com/vorozhko/site-reliability-engineer-guide/blob/master/software-engeneering-at-google.pdf)
 - [x] [Keys to SRE by Ben Treynor](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre)
-- [ ] [How Container Clusters Like Kubernetes Change Operations](https://www.usenix.org/conference/srecon15europe/program/presentation/burns)
+- [x] [How Container Clusters Like Kubernetes Change Operations](https://www.youtube.com/watch?v=FBSO264dZRg)
 - [ ] [10 Years of Crashing Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/krishnan)
 - [ ] [Release Engineering Best Practices at Google](https://www.usenix.org/conference/lisa15/conference-program/presentation/mcnutt)
 - [ ] [From Zero to Hero: Recommended Practices for Training your Ever-Evolving SRE Teams](https://www.usenix.org/conference/srecon15/program/presentation/widdowson)
